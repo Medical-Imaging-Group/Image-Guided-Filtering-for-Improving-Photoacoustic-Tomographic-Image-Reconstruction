@@ -2,7 +2,7 @@
 
 This MATLAB code was used as part of the work presented in
 
-**Navchetan Awasthi, Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Image-guided filtering for improving photoacoustic tomographic image reconstruction,” J. Biomed. Opt. 23(9), 091413 (2018), doi: 10.1117/1.JBO.23.9.091413.
+**Navchetan Awasthi, Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Image-guided filtering for improving photoacoustic tomographic image reconstruction,” J. Biomed. Opt. 23(9), 091413 (2018), doi: 10.1117/1.JBO.23.9.091413.**
 
 #The codes for generating the data and TV can be found at [patextrapolation site.](https://sites.google.com/site/sercmig/home/patextrapolation)
 
